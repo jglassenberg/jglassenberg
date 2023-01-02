@@ -1,4 +1,10 @@
-### Hi there 👋
+### I'm a Product leader in APIs and Developer platforms, with side projects in API tooling.  I'm also a Google Developer Expert and have been working on various Google Apps Scripts.
+
+Current projects include:
+
+- Google Apps Scripts samples, posted to https://github.com/googleworkspace/solutionsand published at https://developers.google.com/apps-script/samples/automations/
+
+- OpenAPI decorator: Endpoint filler.  This takes an OpenAPI schema, parses the models, and appends corresponding CRUD endpoints.  https://github.com/jglassenberg/REST-API-Endpoint-Generator
 
 <!--
 **jglassenberg/jglassenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
