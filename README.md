@@ -2,7 +2,7 @@
 
 Current projects include:
 
-- Google Apps Scripts samples, posted to https://github.com/googleworkspace/solutionsand published at https://developers.google.com/apps-script/samples/automations/
+- Google Apps Scripts samples, posted to https://github.com/googleworkspace/solutions and published at https://developers.google.com/apps-script/samples/automations/
 
 - OpenAPI decorator: Endpoint filler.  This takes an OpenAPI schema, parses the models, and appends corresponding CRUD endpoints.  https://github.com/jglassenberg/REST-API-Endpoint-Generator
 
